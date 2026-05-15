@@ -33,7 +33,7 @@
 val maja = Developer(
     name     = "Maja Makowska",
     role     = "Student",
-    loves    = listOf("low-level code", "clean architecture", "coffee"),
+    loves    = listOf("code", "clean architecture", "coffee"),
     currentlyLearning = "something new every week"
 )
 ```
