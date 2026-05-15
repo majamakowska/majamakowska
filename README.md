@@ -30,12 +30,7 @@
 ### 💡 A bit about me
 
 ```kotlin
-val maja = Developer(
-  name = "Maja Makowska",
-  role = "Student",
-  loves = listOf("code", "clean architecture", "coffee"),
-  currentlyLearning = "something new every week"
-)
+val maja = Developer(name = "Maja Makowska", role = "Student", loves = listOf("code", "clean architecture", "coffee"))
 ```
 
 ---
