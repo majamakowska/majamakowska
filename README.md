@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Student+%E2%80%A2+Developer+%E2%80%A2+Low-level+Enthusiast;From+Assembly+bits+to+modern+UIs;Building+across+the+entire+stack" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Student+%E2%80%A2+Developer;From+Assembly+bits+to+modern+UIs;Building+across+the+entire+stack" alt="Typing animation" />
 
 <br/>
 <br/>
